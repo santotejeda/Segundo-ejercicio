@@ -1,0 +1,24 @@
+
+        
+        .informacion_personal {
+            background-color: #afe4d1;
+            padding: 20px;
+            border: 5px solid #7fa492;
+            margin-bottom: 20px;
+        }
+ 
+        
+        .informacion_academica {
+            background-color: #fce3fa;
+            padding: 20px;
+            border: 5px solid #9a589f;
+            margin-bottom: 20px;
+        }
+ 
+        .proyeccion {
+            background-color: #e4ec6f;
+            padding: 20px;
+            border: 5px solid #474531;
+            margin-bottom: 20px;
+        }
+    
